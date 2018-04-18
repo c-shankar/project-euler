@@ -1,0 +1,81 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2277,         73]
+NotebookOptionsPosition[      1641,         53]
+NotebookOutlinePosition[      1984,         68]
+CellTagsIndexPosition[      1941,         65]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"LCM", "[", 
+  RowBox[{
+  "1", ",", "2", ",", "3", ",", "4", ",", "5", ",", "6", ",", "7", ",", "8", 
+   ",", "9", ",", "10", ",", "11", ",", "12", ",", "13", ",", "14", ",", "15",
+    ",", "16", ",", "17", ",", "18", ",", "19", ",", "20"}], "]"}]], "Input",
+ CellChangeTimes->{{3.726919860443281*^9, 
+  3.72691987669129*^9}},ExpressionUUID->"89e2e9b0-5827-443e-ac69-\
+422a9e995634"],
+
+Cell[BoxData["232792560"], "Output",
+ CellChangeTimes->{
+  3.726919878815446*^9},ExpressionUUID->"ed97a5d1-1ae9-4a58-aad7-\
+65954a1847ea"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"LCM", "[", 
+  RowBox[{
+   RowBox[{"Range", "[", "20", "]"}], "/.", 
+   RowBox[{"List", "\[Rule]", "Sequence"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.732898820393985*^9, 3.7328988206018233`*^9}},
+ CellLabel->"In[6]:=",ExpressionUUID->"39eb22e2-cd08-4a31-8abf-99fc670c4665"],
+
+Cell[BoxData["232792560"], "Output",
+ CellChangeTimes->{3.7328988255018415`*^9},
+ CellLabel->"Out[6]=",ExpressionUUID->"c8d0f098-ebf1-45ab-9274-05d5033fc17b"]
+}, Open  ]]
+},
+WindowSize->{749, 786},
+WindowMargins->{{Automatic, 490}, {50, Automatic}},
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 406, 8, 60, "Input",ExpressionUUID->"89e2e9b0-5827-443e-ac69-422a9e995634"],
+Cell[989, 32, 138, 3, 40, "Output",ExpressionUUID->"ed97a5d1-1ae9-4a58-aad7-65954a1847ea"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1164, 40, 300, 6, 35, "Input",ExpressionUUID->"39eb22e2-cd08-4a31-8abf-99fc670c4665"],
+Cell[1467, 48, 158, 2, 40, "Output",ExpressionUUID->"c8d0f098-ebf1-45ab-9274-05d5033fc17b"]
+}, Open  ]]
+}
+]
+*)
+
